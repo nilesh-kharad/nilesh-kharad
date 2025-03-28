@@ -1,37 +1,25 @@
 <h1 align="left">Hi 👋, I'm Nilesh kharad</h1>
 <h3 align="left">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vpalve07&label=Profile%20views&color=0e75b6&style=flat" alt="vpalve07" /> 
-</a>
-    <a href="https://github.com/vpalve07/project-productManagement05.git">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vpalve07/project-productManagement05" />
-    </a> 
-<!--     <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vpalve07?label=Followers&style=social"> -->
-    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vpalve07?label=Followers&style=social">
-    <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> 
-    <img src="https://img.shields.io/github/stars/vpalve07?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
-    </p>
 
 <h2 align="left"> 🏆 GitHub Trophies:</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vpalve07&theme=juicyfresh)](https://github.com/vpalve07/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nilesh-kharad&theme=juicyfresh)](https://github.com/nilesh-kharad/github-profile-trophy)
 
 <img align="right" alt="Coding" height="329" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🔭 I’m currently working on [URL Shortner](https://github.com/vpalve07/Url_Shortner_Frontend)
 
-- 🌱 I’m currently learning **NodeJS, express**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Anything, Ready to help**
 
-- 📫 How to reach me **vinayak.palve02@gmail.com**
-
-- ⚡ Fun fact **Most people fall asleep in seven minutes.**
+- 📫 How to reach me **nileshk191@gmail.com**
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/vinayak-palve-60279a220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak palve" height="30" width="40" /></a>
-<a href="https://instagram.com/vinnayak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinnayak07" height="30" width="40" /></a>&nbsp;
+<a href="www.linkedin.com/in/nilesh-kharad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh kharad" height="30" width="40" /></a>
+&nbsp;
 </p>
 </p>
 
@@ -133,11 +121,11 @@
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpalve07&layout=compact&theme=yeblu)](https://github.com/vpalve07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-kharad&layout=compact&theme=yeblu)](https://github.com/nilesh-kharad/github-readme-stats)
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpalve07&show_icons=true&theme=yeblu)
+![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilesh-kharad&show_icons=true&theme=yeblu)
 
-![Vinayak's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=vpalve07&theme=yeblu)
+![Nilesh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nilesh-kharad&theme=yeblu)
 
 ## Show your support ✨
 
