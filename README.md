@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" height="329" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🔭 I’m currently working on [URL Shortner](https://github.com/vpalve07/Url_Shortner_Frontend)
+- 🔭 I’m currently working on [Vercel Management Plateform]
 
 - 🌱 I’m currently learning **React Native**
 
